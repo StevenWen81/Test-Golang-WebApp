@@ -2,6 +2,8 @@
 package main
 
 // Mengimport Library
+// 1. Untuk http
+// 2. Untuk html
 import(
 	"net/http"
 	"html/template"
@@ -18,6 +20,7 @@ func main() {
 	http.HandleFunc("/", indexHandler)
 	http.ListenAndServe(":8080", nil) 
 	// ":XXXX" => Alamat localhost
+	// Bole diganti kalau mau
 }
 
 // Fungsi pembantu untuk mengakses index.html
