@@ -1,5 +1,5 @@
 # Test Golang WebApp
-> Learn Golang  WebApp concept
+> Learning Golang  WebApp concept
 
 ## How to Run
 Step 1: Install or Clone this repo
