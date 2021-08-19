@@ -2,14 +2,14 @@
 > Learn Golang  WebApp concept
 
 ## How to Run
-Install or Clone this repo
+Step 1: Install or Clone this repo
 </br>
-Run on Terminal
+Step 2: Run on Terminal
 
     .\run.bat
     
 </br>
-Type on Browser
+Step 3: Type on Browser
 
     localhost:8080
 
