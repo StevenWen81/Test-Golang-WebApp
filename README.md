@@ -5,10 +5,11 @@
 Install or Clone this repo
 </br>
 Run on Terminal
-'''
-.\run.bat
-'''
+
+    .\run.bat
+    
+</br>
 Type on Browser
-'''
-localhost:8080
-'''
+
+    localhost:8080
+
