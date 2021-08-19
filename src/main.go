@@ -5,6 +5,7 @@ package main
 // 1. Untuk http
 // 2. Untuk html
 import(
+	// "fmt"
 	"net/http"
 	"html/template"
 )
@@ -14,6 +15,7 @@ var templates *template.Template
 
 // Fungsi utama
 func main() {
+	// fmt.Fprint("This id Main Page")
 	templates = template.Must(template.ParseGlob("file/*.html"))
 	// file/*.html => nama_folder/*.nama_ext
 
