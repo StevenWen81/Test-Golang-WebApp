@@ -6,7 +6,7 @@
 ## How to Run
 Step 1: Install or Clone this repo
 
-    git clone https://github.com/StevenWen81/Test-Golang-WebApp.git
+    git clone https://github.com/loopfree/Test-Golang-WebApp.git
     cd src
 
 </br>
